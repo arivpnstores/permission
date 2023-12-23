@@ -1,3 +1,3 @@
 [IPMINI = IZIN SC-TUNNEL]
-[IP = IZIN  XRAYLITE]
+[IP = [https://github.com/arivpnstores/xraylite)https://github.com/arivpnstores/xraylite]
 
